@@ -1,0 +1,15 @@
+Q2.
+Ans.
+1)Justify content---The CSS justify-content property defines how the browser distributes space between and around content items along the main-axis of a flex container, and the inline axis of a grid container.
+
+2)Align items---The CSS align-items property sets the align-self value on all direct children as a group. In Flexbox, it controls the alignment of items on the Cross Axis. In Grid Layout, it controls the alignment of items on the Block Axis within their grid area.
+
+3)Gap---The gap CSS shorthand property sets the gaps (gutters) between rows and columns.
+
+Early versions of the specification called this property grid-gap, and to maintain compatibility with legacy websites, browsers will still accept grid-gap as an alias for gap.
+
+4)Flex-direction---The flex-direction property is sub-property of flexible box layout module. It established the main axis of the flexible item. the main axis of the flex item is the primary axis. It’s not necessarily horizontal all the time it basically depends on the flex-direction property. 
+
+Note:The flex property is useless when the element is not flexible item.
+
+5)Flex-wrap---The CSS flex-wrap property is used to specify whether flex items are forced into a single line or wrapped onto multiple lines. The flex-wrap property allows enabling the control direction in which lines are stacked. It is used to designate a single line or multi-line format to flex items inside the flex container.

@@ -1,0 +1,5 @@
+Q1.
+Ans.Flexbox: The CSS Flexbox offers a one-dimensional layout. It is helpful in allocating and aligning the space among items in a container (made of grids). It works with all kinds of display devices and screen sizes.
+
+    Grid layout--- Grid was designed for two-dimensional layout - rows, and columns at the same time.
+    making it easier to design web pages without having to use floats and positioning. Like tables, grid layout allow us to align elements into columns and rows.
